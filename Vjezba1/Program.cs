@@ -10,6 +10,10 @@ namespace Vjezba1
     {
         static void Main(string[] args)
         {
+            Console.Write("nesto");
+            int a = 4;
+            Console.WriteLine("jos nesto");
+            Console.Write("nista");
         }
     }
 }
