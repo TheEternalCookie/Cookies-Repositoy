@@ -14,6 +14,8 @@ namespace Vjezba1
             int a = 4;
             Console.WriteLine("jos nesto");
             Console.Write("nista");
+            
+            Console.Write("Hello Luka Janketić, I am Zvonimir Ivković");
         }
     }
 }
